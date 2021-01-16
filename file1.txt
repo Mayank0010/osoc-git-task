@@ -1,1 +1,4 @@
-This is my third file
+This is modification of file1
+cat > file1.txt
+exit
+Staring the task

@@ -3,7 +3,4 @@
 
 
 
- new file
-this is a file
-Adding some text
-append this file
+ new file after merge-conflict
