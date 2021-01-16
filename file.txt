@@ -6,3 +6,4 @@
  new file
 this is a file
 Adding some text
+changing the contents
